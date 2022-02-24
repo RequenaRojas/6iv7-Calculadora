@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">calculadora</string>
+    <string name="m1">Proba. y Esta.</string>
+    <string name="m2">Física IV</string>
+    <string name="m3">Química IV</string>
+    <string name="m4">Orientación</string>
+    <string name="m5">Pro. Integrador</string>
+    <string name="m6">Soporte de Soft.</string>
+    <string name="m7">Ing. Software</string>
+    <string name="m8">Laboratorio</string>
+    <string name="m9">Metodologías</string>
+    <string name="Promedio">Promedio</string>
+    <string name="btn">Ordenar</string>
+    <string name="btn2">Volver</string>
+    <string name="t1">Materias no aprobatorias: </string>
+    <string name="t2">Tus calificaciones finales son:  </string>
+    <string name="T1">Inserta tus calificaciones:</string>
+    <string name="total">Total</string>
+    
+</resources>
